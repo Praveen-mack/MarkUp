@@ -13,6 +13,7 @@
 		ACC33444291A935C0059742E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACC33442291A935C0059742E /* Main.storyboard */; };
 		ACC33446291A935E0059742E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACC33445291A935E0059742E /* Assets.xcassets */; };
 		ACC33449291A935E0059742E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACC33447291A935E0059742E /* LaunchScreen.storyboard */; };
+		ACC33451291A93DC0059742E /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACC33450291A93DC0059742E /* Test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		ACC33445291A935E0059742E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ACC33448291A935E0059742E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ACC3344A291A935E0059742E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ACC33450291A93DC0059742E /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				ACC3343C291A935C0059742E /* AppDelegate.swift */,
 				ACC3343E291A935C0059742E /* SceneDelegate.swift */,
 				ACC33440291A935C0059742E /* ViewController.swift */,
+				ACC33450291A93DC0059742E /* Test.swift */,
 				ACC33442291A935C0059742E /* Main.storyboard */,
 				ACC33445291A935E0059742E /* Assets.xcassets */,
 				ACC33447291A935E0059742E /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ACC33441291A935C0059742E /* ViewController.swift in Sources */,
+				ACC33451291A93DC0059742E /* Test.swift in Sources */,
 				ACC3343D291A935C0059742E /* AppDelegate.swift in Sources */,
 				ACC3343F291A935C0059742E /* SceneDelegate.swift in Sources */,
 			);
